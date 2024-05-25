@@ -1,4 +1,4 @@
-import { input } from "./input";
+import { day1Input } from "./input";
 
 const map = {
   1: 1,
@@ -77,4 +77,4 @@ export const dayOne: (data: string) => number = (data: string) =>
     return Number(`${firstMatch}${lastMatch}`) + acc;
   }, 0);
 
-console.log(dayOne(input));
+console.log(dayOne(day1Input));

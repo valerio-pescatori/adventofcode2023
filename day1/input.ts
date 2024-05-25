@@ -1,4 +1,4 @@
-export const input = `14gxqgqsqqbxfpxnbccjc33eight
+export const day1Input = `14gxqgqsqqbxfpxnbccjc33eight
 eight2sevenkl
 mrjstg5onetwoeightgcczx8vgrgl
 9246
