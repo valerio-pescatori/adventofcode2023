@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "day1": "bun day1/script.ts"
+    "day1": "bun day1/script.ts",
+    "day2": "bun day2/script.ts"
   },
   "keywords": [],
   "author": "",
