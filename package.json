@@ -1,14 +1,15 @@
 {
-  "name": "adventofcode",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "day1": "bun day1/script.ts",
-    "day2": "bun day2/script.ts",
-    "day3": "bun day3/script.ts"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+	"name": "adventofcode",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"day1": "bun day1/script.ts",
+		"day2": "bun day2/script.ts",
+		"day3": "bun day3/script.ts",
+		"day4": "bun day4/script.ts"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
 }
