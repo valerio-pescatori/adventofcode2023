@@ -7,7 +7,8 @@
 		"day1": "bun day1/script.ts",
 		"day2": "bun day2/script.ts",
 		"day3": "bun day3/script.ts",
-		"day4": "bun day4/script.ts"
+		"day4": "bun day4/script.ts",
+		"day5": "bun day5/script.ts"
 	},
 	"keywords": [],
 	"author": "",
